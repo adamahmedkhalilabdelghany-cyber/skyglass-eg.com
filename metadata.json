@@ -1,0 +1,6 @@
+{
+  "name": "Sky Glass | سكاي جلاس",
+  "description": "تصنيع وتركيب الزجاج المعماري بمصر: غرف زجاجية بدون إطار، أنظمة منزلقة، كابائن شاور سيكوريت، برجولات وواجهات زجاجية بضمان 5 سنوات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
